@@ -1,0 +1,15 @@
+{
+
+  "name": "n7k2p9m",
+
+  "version": "3.1.0",
+
+  "type": "module",
+
+  "description": "distributed edge node",
+
+  "private": true,
+
+  "license": "MIT"
+
+}
